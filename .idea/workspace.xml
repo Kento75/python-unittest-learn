@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49816f24-da00-40ec-b35d-c03f06e3fe25" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/calc/test/test_example2-2-3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calc/test/test_example2-3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calc/test/test_example2-4-1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,24 +13,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="test_example2-2-3.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/calc/test/test_example2-2-3.py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="test_example2-4-1.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/calc/test/test_example2-4-1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_example2-3.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/calc/test/test_example2-3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="153">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -70,6 +57,7 @@
         <option value="$PROJECT_DIR$/calc/test/test_example2-2-2.py" />
         <option value="$PROJECT_DIR$/calc/test/test_example2-2-3.py" />
         <option value="$PROJECT_DIR$/calc/test/test_example2-3.py" />
+        <option value="$PROJECT_DIR$/calc/test/test_example2-4-1.py" />
       </list>
     </option>
   </component>
@@ -84,7 +72,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -107,6 +94,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -124,25 +112,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test_example2-3">
-    <configuration name="example1-5" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="unittest_example" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unittest" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unittest/example1-5.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.test_example2-4-1">
     <configuration name="test_example2-2-1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="unittest_example" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -197,6 +167,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="test_example2-4-1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="unittest_example" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/calc/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/calc/test/test_example2-4-1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="Unittests for test_example2-3.MyTestCase.test_add" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="unittest_example" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -211,19 +199,19 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
     <list>
-      <item itemvalue="Python.example1-5" />
       <item itemvalue="Python.test_example2-2-1" />
       <item itemvalue="Python.test_example2-2-2" />
       <item itemvalue="Python tests.Unittests for test_example2-3.MyTestCase.test_add" />
       <item itemvalue="Python.test_example2-3" />
+      <item itemvalue="Python.test_example2-4-1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test_example2-4-1" />
         <item itemvalue="Python.test_example2-3" />
         <item itemvalue="Python tests.Unittests for test_example2-3.MyTestCase.test_add" />
         <item itemvalue="Python.test_example2-2-2" />
         <item itemvalue="Python.test_example2-2-1" />
-        <item itemvalue="Python.example1-5" />
       </list>
     </recent_temporary>
   </component>
@@ -249,17 +237,16 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="676" y="0" width="697" height="775" extended-state="0" />
-    <editor active="true" />
+    <frame x="676" y="0" width="697" height="775" extended-state="1" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.41426402" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33751962" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33751962" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.33281004" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.33281004" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39246467" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -275,6 +262,26 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/calc/test/test_example2-2-3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/calc/test/test_example2-3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="19" lean-forward="true" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/my_func.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -393,8 +400,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/calc/test/test_example2-3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="391">
+          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/calc/test/test_example2-4-1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
